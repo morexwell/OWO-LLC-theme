@@ -1,0 +1,144 @@
+body{
+    
+    background: skyblue;
+
+
+}
+
+section{
+   
+    background: rgb(78, 33, 204);
+    width: 70%;
+    height: 100%;
+    margin:0 auto;
+    position: relative;
+ 
+}
+
+.box1{
+background: red;
+ width: 100px;
+ height: 100px;
+ position:absolute;
+top:0;
+left: 0;
+
+ 
+
+}
+
+.box2{
+  
+   background: red;
+     width: 100px;
+     height: 100px;
+
+    position: absolute;
+      top: 0;
+      right:0;
+     }
+
+.box3{
+  
+   background: red;
+     width: 100px;
+     height: 100px;
+
+    position: absolute;
+      bottom: 0;
+      right:0;
+     }
+
+.box4{
+  
+        background: red;
+          width: 100px;
+          height: 100px;
+     
+         position: absolute;
+           bottom: 0;
+           left:0;
+          }
+     
+.box5{
+  
+    background: rgb(142, 108, 236);
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+         
+    position: absolute;
+    top:25%;
+    left: 35%;
+    right:44%;
+    bottom:44%;
+     }
+     
+     .box6{
+  
+        background: rgb(142, 108, 236);
+        width: 30%;
+        height: 100%;
+     
+             
+        position: absolute;
+        top:0;
+        left: 100px;
+        right:44%;
+        bottom:100px;
+         }        
+
+         .box7{
+  
+            background:rgb(142, 108, 236);
+            width: 30%;
+            height: 100%;
+         
+                 
+            position: absolute;
+            top:0;
+            right: 100px;
+            left:60%;
+            bottom:100px;
+             }                 
+
+             .box8{
+  
+                background: rgba(196, 179, 245, 0.521);
+                width: 250px;
+                height: 250px;
+                border-radius: 50%;
+                     
+                position: absolute;
+                top:30%;
+                left: 38%;
+                right:44%;
+                bottom:44%;
+                 }
+                
+                
+                 .box9{
+  
+                    background: rgba(253, 253, 253, 0.767);
+                    width: 200px;
+                    height: 200px;
+                    border-radius: 50%;
+                         
+                    position: absolute;
+                    top:35%;
+                    left: 40.5%;
+                    right:44%;
+                    bottom:44%;
+                    box-shadow:1px 1px 1px rgb(171, 171, 231);
+                    
+                
+                     }
+                     
+                     .campany-name{
+                        text-align: center;
+                        padding-top:45%;
+                        font-weight: 900;
+                        font-size: 25px;
+                        color:skyblue;
+                        text-shadow: 1px 1px 2px blue;
+                     }
